@@ -8,7 +8,7 @@ output:
   xaringan::moon_reader:
     self_contained: true  ## otherwise you need the entire folder to see the slides correctly
     yolo: false
-    css: ["middlebury.css", "tamu-fonts.css"] ## Note that if you don't specify the .css after the file name here, xaringan will import and renew the template at each run in ./libs/remark-css/
+    css: ["css_template/middlebury.css", "css_template/tamu-fonts.css"] ## Note that if you don't specify the .css after the file name here, xaringan will import and renew the template at each run in ./libs/remark-css/
     lib_dir: libs
     nature:
       highlightStyle: github

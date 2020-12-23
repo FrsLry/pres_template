@@ -124,7 +124,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* Add image and change bg color */
 .title-slide {
-  background-image: url(images/czu_logo.jpg), url(images/versioncontrol.png);
+  background-image: url(../images/czu_logo.jpg), url(../images/versioncontrol.png);
   background-position: 50px 5%, right;
   background-size: 100px, 38% 100%;
   background-color: #fff;
