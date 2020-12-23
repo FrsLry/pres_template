@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
+
+/* Here, xarigan will take the first value as the main font */
+body { font-family: 'Open Sans', 'Songti SC', 'Microsoft YaHei', 'Book Antiqua', 'Palatino Linotype', Palatino, serif; }
+
+/* Same comment here, the first is the one used */
+h1, h2, h3 { font-family: 'Yanone Kaffeesatz'; }
+
+.remark-code, .remark-inline-code { 
+  font-family: 'Inconsolata', 'Lucida Console', Monaco, monospace; color: #500000; 
+  background-color: #f3f3f3;  font-size: 90%; 
+}
